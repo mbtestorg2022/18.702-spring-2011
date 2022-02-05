@@ -31,10 +31,39 @@ Students are expected to prepare for each class meeting by completing the assign
 
 Grading for the course will be based on the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Weekly problem sets | 25% |
-| Three quizzes (25% each) | 75% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Weekly problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three quizzes (25% each)
+{{< tdclose >}}
+{{< tdopen >}}
+75%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 \*Please note: the quizzes are not available for this version of the course
 
